@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Tharun%20Vigneshwar&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20DevOps%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9A%A1+Building+scalable+%26+high-performance+apps;%F0%9F%94%A7+PHP+%7C+Laravel+%7C+Docker+%7C+AWS+%7C+Flutter;%F0%9F%9A%80+3%2B+Years+Full+Stack+%26+DevOps+Engineer)](https://git.io/typing-svg)
@@ -39,51 +37,44 @@ I build **scalable, high-performance web applications** that serve thousands of 
 <div align="center">
 
 ### Languages
+
 <img src="https://skillicons.dev/icons?i=php,js,html,css,dart,py&theme=dark" alt="Languages" />
 
 ### Frameworks & Libraries
+
 <img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap,wordpress&theme=dark" alt="Frameworks" />
 
 ### Databases
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases" />
 
 ### DevOps & Cloud
+
 <img src="https://skillicons.dev/icons?i=docker,linux,aws,cloudflare,git,github,grafana&theme=dark" alt="DevOps" />
 
 ### Testing & Automation
+
 <img src="https://skillicons.dev/icons?i=selenium,py&theme=dark" alt="Testing" />
-&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="48" width="48" alt="Playwright"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="48" width="48" alt="Playwright"/>
 
 </div>
 
 <br/>
 
-## 💼 &nbsp;Professional Experience
 
 <div align="center">
 
-| Domain | Expertise |
-|:---:|:---|
-| 🌐 **Full Stack** | End-to-end Laravel apps with modern PHP 8.x practices |
-| 🔌 **API Engineering** | RESTful APIs, microservices, WebSocket integrations |
-| 🐳 **DevOps** | Docker containerization, CI/CD, cloud deployments |
-| 🗄️ **Databases** | MySQL & PostgreSQL — schema design, query optimization, migrations |
-| 🖥️ **Infrastructure** | Linux server administration, AWS, Cloudflare, monitoring with Grafana |
-| 📱 **Mobile** | Cross-platform applications with Flutter & Dart |
-| 🤖 **Automation** | Python scripting, Selenium & Playwright for browser automation & testing |
-
-</div>
 
 <br/>
 
 ## 🚀 &nbsp;Featured Projects
 
-| &nbsp; | Project | Description | Stack |
-|:---:|:---|:---|:---|
-| 🏗️ | **Enterprise Web Platform** | Scalable Laravel app serving 10k+ users with real-time features | `Laravel` `MySQL` `Docker` `AWS` |
-| 📱 | **Cross-Platform Mobile App** | Flutter application with real-time sync & offline support | `Flutter` `Dart` `REST API` |
-| ⚡ | **Microservices API Gateway** | High-performance API architecture handling 1M+ requests/day | `PHP` `Laravel` `PostgreSQL` `Redis` |
-| 🔧 | **Infra Automation Suite** | Automated deployment, monitoring & alerting pipeline | `Docker` `AWS` `Grafana` `Linux` |
+| &nbsp; | Project                             | Description                                                     | Stack                                        |
+| :----: | :---------------------------------- | :-------------------------------------------------------------- | :------------------------------------------- |
+|  🏗️  | **Enterprise Web Platform**   | Scalable Laravel app serving 10k+ users with real-time features | `Laravel` `MySQL` `Docker` `AWS`     |
+|   📱   | **Cross-Platform Mobile App** | Flutter application with real-time sync & offline support       | `Flutter` `Dart` `REST API`            |
+|   ⚡   | **Microservices API Gateway** | High-performance API architecture handling 1M+ requests/day     | `PHP` `Laravel` `PostgreSQL` `Redis` |
+|   🔧   | **Infra Automation Suite**    | Automated deployment, monitoring & alerting pipeline            | `Docker` `AWS` `Grafana` `Linux`     |
 
 <br/>
 
@@ -128,7 +119,7 @@ I build **scalable, high-performance web applications** that serve thousands of 
   <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
-<br/><br/>
+`<br/><br/>`
 
 > **"First, solve the problem. Then, write the code."** — John Johnson
 
