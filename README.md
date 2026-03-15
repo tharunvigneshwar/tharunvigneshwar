@@ -4,11 +4,12 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/tharun-vigneshwar/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" target="_blank"/>
-</a>
+
 <a href="mailto:tharunvigneshwar.kk@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Gmail" target="_blank"/>
+</a>
+<a href="https://www.linkedin.com/in/tharun-vigneshwar/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/>
 </a>
 <a href="https://wa.me/919500202257">
   <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=58a6ff" alt="WhatsApp" target="_blank"/>
@@ -119,7 +120,7 @@ I build **scalable, high-performance web applications** that serve thousands of 
   <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" target="_blank"/>
 </a>
 
-<br/>
+<br/><br/>`
 
 > **"First, solve the problem. Then, write the code."** — John Johnson
 
