@@ -14,6 +14,9 @@
 <a href="https://wa.me/919500202257">
   <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=58a6ff" alt="WhatsApp" target="_blank"/>
 </a>
+<a href="https://portfolio.tharunk.cfd/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=58a6ff" alt="Portfolio"/>
+</a>
 
 </div>
 
@@ -119,6 +122,9 @@ I build **scalable, high-performance web applications** that serve thousands of 
 </a>
 <a href="https://wa.me/919500202257" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" target="_blank"/>
+</a>
+<a href="https://portfolio.tharunk.cfd/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" target="_blank"/>
 </a>
 
 <br/><br/>
