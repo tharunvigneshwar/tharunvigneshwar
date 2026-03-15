@@ -27,7 +27,7 @@ name: Tharun Vigneshwar
 role: Full Stack Developer & DevOps Engineer
 experience: 3+ years
 location: India
-current_focus: Scalable Laravel applications & Cloud-native deployments
+current_focus: Scalable Web Applications & Cloud-native Deployments
 ```
 
 I build **scalable, high-performance web applications** that serve thousands of users. My work sits at the intersection of **backend engineering**, **DevOps**, and **clean architecture** — turning complex business requirements into elegant, maintainable code.
@@ -134,9 +134,11 @@ I build **scalable, high-performance web applications** that serve thousands of 
 
 <br/>
 
-🤝
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="80" />
 
 **Open for collaborations, freelance projects, and interesting conversations.**
 **Let's build something great together!**
+
+💬 **Feel free to reach out — I'm always open to discussing new work, projects, or opportunities!**
 
 </div>
