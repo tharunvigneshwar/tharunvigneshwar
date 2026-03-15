@@ -15,7 +15,6 @@
 <a href="https://wa.me/919500202257">
   <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=58a6ff" alt="WhatsApp"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=TharunVigneshwar&style=for-the-badge&color=0d1117&labelColor=0d1117&label=VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -134,6 +133,8 @@ I build **scalable, high-performance web applications** that serve thousands of 
 > **"First, solve the problem. Then, write the code."** — John Johnson
 
 <br/>
+
+🤝
 
 **Open for collaborations, freelance projects, and interesting conversations.**
 **Let's build something great together!**
