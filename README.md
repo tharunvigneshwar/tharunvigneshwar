@@ -5,13 +5,13 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/tharun-vigneshwar/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" target="_blank"/>
 </a>
 <a href="mailto:tharunvigneshwar.kk@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Gmail" target="_blank"/>
 </a>
 <a href="https://wa.me/919500202257">
-  <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=58a6ff" alt="WhatsApp"/>
+  <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=58a6ff" alt="WhatsApp" target="_blank"/>
 </a>
 
 </div>
@@ -110,19 +110,18 @@ I build **scalable, high-performance web applications** that serve thousands of 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/tharun-vigneshwar/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/>
 </a>
 <a href="mailto:tharunvigneshwar.kk@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/>
 </a>
 <a href="https://wa.me/919500202257" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" target="_blank"/>
 </a>
 
 <br/>
 
 > **"First, solve the problem. Then, write the code."** — John Johnson
-
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="80" />
 
