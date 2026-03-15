@@ -4,7 +4,6 @@
 
 <br/>
 
-
 <a href="mailto:tharunvigneshwar.kk@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Gmail" target="_blank"/>
 </a>
@@ -65,9 +64,7 @@ I build **scalable, high-performance web applications** that serve thousands of 
 
 <br/>
 
-
 <div align="center">
-
 
 <br/>
 
@@ -113,7 +110,6 @@ I build **scalable, high-performance web applications** that serve thousands of 
 
 <div align="center">
 
-
 <a href="mailto:tharunvigneshwar.kk@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/>
 </a>
@@ -133,8 +129,6 @@ I build **scalable, high-performance web applications** that serve thousands of 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="80" />
 
-**Open for collaborations, freelance projects, and interesting conversations.**
-**Let's build something great together!**
 
 💬 **Feel free to reach out — I'm always open to discussing new work, projects, or opportunities!**
 
