@@ -119,11 +119,10 @@ I build **scalable, high-performance web applications** that serve thousands of 
   <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
-`<br/><br/>`
+<br/>
 
 > **"First, solve the problem. Then, write the code."** — John Johnson
 
-<br/>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="80" />
 
